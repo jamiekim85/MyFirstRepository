@@ -1,10 +1,10 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 /*-------------------------------------
-로컬 주석
+주석     
 --------------------------------------*/
 namespace SportsStore.Domain.Entities
 {
